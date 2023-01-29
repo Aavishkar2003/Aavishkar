@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring & creating new things
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @instagram :@aavishkarmayal @twitter :aavihskar_mayal
+- 📫 How to reach me @instagram :@aavishkarmayal @twitter :aavishkarrmayal
 
 <!---
 AviiMayal/AviiMayal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
