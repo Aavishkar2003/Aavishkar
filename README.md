@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AviiMayal
+- 👋 Hi, I’m @Aavishkar
 - 👀 I’m interested in exploring & creating new things
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on ...
